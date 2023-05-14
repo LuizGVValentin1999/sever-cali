@@ -1,0 +1,4 @@
+-- CreateTable
+CREATE TABLE "batata" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT
+);
